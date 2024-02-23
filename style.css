@@ -1,0 +1,12 @@
+#oraszam{
+    display: flex;
+}
+
+#osztalyterem{
+    size: 3px;
+}
+
+div{
+    background-color: black;
+    color: white;
+}
