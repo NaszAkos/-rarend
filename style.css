@@ -9,4 +9,13 @@
 div{
     background-color: black;
     color: white;
+    width: 800px;
+}
+
+#piros{
+    background-color: red;
+}
+
+a{
+    color: wheat;
 }
